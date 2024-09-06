@@ -1,4 +1,4 @@
-👋 Hi, I’m @BIPLAT-CIBERINFEC, the official Bioinformatics Platform of [CIBERINFEC](https://www.ciberinfec.es/en), dedicated to advancing research and development in bioinformatics with a focus on infectious diseases.  
+👋 Hi, we are @BIPLAT-CIBERINFEC, the official Bioinformatics Platform of [CIBERINFEC](https://www.ciberinfec.es/en), dedicated to advancing research and development in bioinformatics with a focus on infectious diseases.  
 
   
 - 👀 We are interested in everything related to bioinformatics applied to infectious diseases.
